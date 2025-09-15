@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SurajSolanki26/Leetcode/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/SurajSolanki26/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SurajSolanki26/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/SurajSolanki26/Leetcode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/SurajSolanki26/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SurajSolanki26/Leetcode/tree/master/0141-linked-list-cycle) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SurajSolanki26/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
