@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SurajSolanki26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SurajSolanki26/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0198-house-robber](https://github.com/SurajSolanki26/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/SurajSolanki26/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SurajSolanki26/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1677-matrix-diagonal-sum](https://github.com/SurajSolanki26/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/SurajSolanki26/Leetcode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/SurajSolanki26/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
