@@ -2,7 +2,7 @@ class Solution:
     def rob(self, nums):
         from functools import lru_cache
 
-        @lru_cache(None)  # memoization
+        @lru_cache(None)  #least_recent_use_for_memorization
         def dp(i):
             if i < 0:
                 return 0
